@@ -1,0 +1,1 @@
+document.getElementById('loop').addEventListener('click', loopTriangle);
